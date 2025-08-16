@@ -29,7 +29,7 @@
     </ul>
   </td>
   <td>
-    <img src="My_Toolbox.gif" alt="What I Do GIF" width="300" height="300"/>
+    <img src="Assets\My_Toolbox.gif" alt="What I Do GIF" width="300" height="300"/>
   </td>
 </tr>
 </table>
@@ -135,7 +135,7 @@ flowchart LR
     <p>💖 Grace Hopper inspires me — not just for her groundbreaking contributions to computer science, but for her fearless approach to challenging norms and pushing technology forward. I strive to bring the same curiosity, courage, and creativity into every project I work on.</p>
   </td>
   <td>
-    <img src="Grace_Hopper.jpg" alt="Grace Hopper" width="300"/>
+    <img src="Assets\Grace_Hopper.jpg" alt="Grace Hopper" width="300"/>
   </td>
 </tr>
 </table>
