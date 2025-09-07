@@ -37,8 +37,6 @@
 ---
 
 
----
-
 # 💡 Inventions
 [![Outlier Toolkit](https://img.shields.io/badge/outlier--toolkit-v1.0.0-blue?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/outlier-toolkit/)
 
