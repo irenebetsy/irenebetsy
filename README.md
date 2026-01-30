@@ -98,7 +98,7 @@
   <img src="https://streak-stats.demolab.com?user=irenebetsy&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=irenebetsy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="./assets/top-langs.svg" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irenebetsy&theme=radical" alt="Contribution Graph" />
