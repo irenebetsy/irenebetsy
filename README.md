@@ -116,9 +116,7 @@
 
 ## ⏳ Weekly Development Breakdown
 <p align="center">
-  <!---<img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenebetsy&layout=compact&theme=radical" alt="Wakatime Stats" />--->
-  [![WakaTime Activity](https://github-readme-stats.vercel.app/api/wakatime?username=irenebetsy)](https://wakatime.com/@irenebetsy)
-  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenebetsy&layout=compact&theme=radical" alt="Wakatime Stats" />
 </p>
 
 ---
