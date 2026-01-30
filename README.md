@@ -94,11 +94,11 @@
 
 # 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irenebetsy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irenebetsy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irenebetsy&show_icons=true&theme=radical&cache_seconds=86400&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irenebetsy&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenebetsy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenebetsy&layout=compact&theme=radical&cache_seconds=86400&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irenebetsy&theme=radical" alt="Contribution Graph" />
@@ -108,15 +108,18 @@
 
 # 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irenebetsy&theme=dracula&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irenebetsy&theme=dracula&no-frame=true&row=1&column=4" />
 </p>
 
 ---
 
+
 ## ⏳ Weekly Development Breakdown
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenebetsy&layout=compact&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenebetsy&theme=radical" />
 </p>
+-->
+
 
 ---
 
