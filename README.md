@@ -107,6 +107,7 @@
 
 ---
 
+# 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=irenebetsy&theme=dracula&column=4" alt="Trophies" />
 </p>
