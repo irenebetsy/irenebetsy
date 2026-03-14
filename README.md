@@ -118,6 +118,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenebetsy&layout=compact&theme=radical&v=2" alt="Wakatime Stats" />
 </p>
+
 ---
 
 # 📌 Career Focus
